@@ -1,0 +1,13 @@
+#First format
+#[theme]
+#primaryColor = "#4B9CD3"
+#backgroundColor = "#F9F9F9"
+#secondaryBackgroundColor = "#E0E0E0"
+#textColor = "#262730"
+
+
+[theme]
+primaryColor = "#4B9CD3"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
